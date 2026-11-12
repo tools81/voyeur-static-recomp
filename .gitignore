@@ -1,0 +1,24 @@
+# Made from the game disc: never commit (copyrighted game code and data)
+/rom/
+/gen/
+/extracted/
+/hd_pack/
+/test/insn_tests.c
+/test/alu_vectors.h
+
+# build output and local runs
+/build/
+/dist/
+/run/
+/saves/
+*.exe
+*.bmp
+*.wav
+recomp.log
+ramdump.bin
+planes.raw
+
+# downloaded tools
+/tools/ai/
+__pycache__/
+*.pyc

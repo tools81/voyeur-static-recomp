@@ -1,0 +1,16 @@
+Third-party software
+====================
+
+Voyeur is (c) 1993 Philips Interactive Media. This package contains no
+part of the game: it runs the game from the player's own disc image.
+
+hd_pack_builder.exe is built with PyInstaller and contains:
+  Python                  PSF License
+  NumPy                   BSD-3-Clause
+  Pillow                  MIT-CMU (HPND)
+  OpenCV (opencv-python-headless)  Apache-2.0
+  PyInstaller bootloader  GPL-2.0 with the bootloader exception
+
+Downloaded on first use of the HD pack builder (not included):
+  Real-ESRGAN / realesrgan-ncnn-vulkan (Xintao Wang et al.), BSD-3-Clause
+  https://github.com/xinntao/Real-ESRGAN

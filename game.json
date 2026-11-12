@@ -1,0 +1,19 @@
+{
+  "title": "Voyeur",
+  "exe_name": "voyeur",
+  "modules": [
+    {
+      "file": "auto",
+      "base": "0x100000",
+      "extra_entries": [],
+      "a5_table": "auto"
+    },
+    {
+      "file": "cdi_bumper",
+      "base": "0xE0000",
+      "extra_entries": [],
+      "a5_table": "auto"
+    }
+  ],
+  "trace_functions": []
+}
