@@ -6,6 +6,9 @@ translated ahead of time into C and linked with a runtime that provides
 CD-RTOS, the CD file manager, video and audio. The game data streams from your
 own disc image at run time; nothing from the disc is included in the build.
 
+# Initial Pass Code screen
+`Enter 3333 and Start`
+
 ## Installing (players)
 
 Download the latest release from the
